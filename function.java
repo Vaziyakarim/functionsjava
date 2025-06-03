@@ -7,6 +7,12 @@ public class functions6{
     //     System.out.println("hello world");
     //     System.out.println("hello world");
     //     System.out.println("hello world");
+    
+    //     System.out.println("hello world");
+	 //     System.out.println("hello world");
+ //     System.out.println("hello world");
+
+    //   
     // }
     // public static void main(String[] args) {
     //     Scanner sc =new Scanner(System.in);
@@ -87,7 +93,7 @@ public class functions6{
     //  int a =sc.nextInt();
     // int b =sc.nextInt();
     // int pro = product(a,b);
-    // System.out.println("the product is:" + pro);
+    // System.out.println("the product  of a and b is:" + pro);
 
 
 // public static int fact(int n){
@@ -106,7 +112,7 @@ public class functions6{
 //      int n=sc.nextInt();
 
 //      int fact=fact(n);
-//      System.out.println("the factorial is" + fact);
+//      System.out.println("the factorial of the guven number  is" + fact);
 
 
 // // maam code
@@ -139,7 +145,7 @@ public class functions6{
 
 
 // my code
-// //binomial coeffient
+// //binomial coeffient of the given number very important 
 // public static int fact(int n){
 //       int fact=1;
 //       for(int i=1;i<=n;i++){
