@@ -78,7 +78,7 @@ public class functions6{
 
 
 
- // calculate product of 2 numbers
+ // calculate product of 2 numbers using java programming language
     // public static int product(int a ,int b){
 
     //     int pro=a*b;
